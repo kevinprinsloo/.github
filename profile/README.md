@@ -24,5 +24,5 @@ Otherwise feel free to open an
 [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 on any of those repositories if you have specific questions or requests
 
-As a reminder, we expect that all contributions adhere to our
+As a reminder, all contributors have to adhere to our
 [Code of Conduct](../CODE_OF_CONDUCT.md).
