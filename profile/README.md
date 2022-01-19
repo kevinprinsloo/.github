@@ -1,0 +1,28 @@
+# 👋 Welcome to BIDS github organization 👋
+
+Click the following links if you want to
+
+- [read the BIDS specification](https://bids-specification.readthedocs.io/en/latest/)
+- [validate a BIDS dataset](https://bids-standard.github.io/bids-validator/)
+- [want to get started with BIDS](https://bids-standard.github.io/bids-starter-kit/)
+- [find BIDS datasets examples](https://github.com/bids-standard/bids-examples#bids-examples)
+- need tools to work with BIDS dataset for
+  - [python](https://bids-standard.github.io/pybids/)
+  - [MATLAB / Octave](https://bids-matlab.readthedocs.io/en/latest/index.html)
+  <!-- - R -->
+- [find a list of BIDS converters](https://bids.neuroimaging.io/benefits.html#converters)
+- [get information on how to submit a BIDS extension proposal](https://docs.google.com/document/d/1pWmEEY-1-WuwBPNy5tDAxVJYQ9Een4hZJM06tQZg8X4/edit)
+
+The source code and content for many of those tools can be found in the
+repositories listed below.
+
+For generic BIDS related question use the
+[NeuroStars](https://neurostars.org/tags/bids) Discourse Forum, under the `bids`
+tag.
+
+Otherwise feel free to open an
+[issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+on any of those repositories if you have specific questions or requests
+
+As a reminder, we expect that all contributions adhere to our
+[Code of Conduct](../CODE_OF_CONDUCT.md).
