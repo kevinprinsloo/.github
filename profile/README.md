@@ -11,7 +11,8 @@ Click the following links if you want to
   - [MATLAB / Octave](https://bids-matlab.readthedocs.io/en/latest/index.html)
   <!-- - R -->
 - [find a list of BIDS converters](https://bids.neuroimaging.io/benefits.html#converters)
-- [get information on how to submit a BIDS extension proposal](https://docs.google.com/document/d/1pWmEEY-1-WuwBPNy5tDAxVJYQ9Een4hZJM06tQZg8X4/edit)
+- [list of BIDS extension proposals](https://bids.neuroimaging.io/get_involved.html)
+- [get information on how to submit a new BIDS extension proposal](https://docs.google.com/document/d/1pWmEEY-1-WuwBPNy5tDAxVJYQ9Een4hZJM06tQZg8X4/edit)
 
 The source code and content for many of those tools can be found in the
 repositories listed below.
